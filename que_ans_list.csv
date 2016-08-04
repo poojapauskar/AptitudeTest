@@ -1,27 +1,105 @@
-id,created,email,usn,question_list,answer_list,firstname,lastname,phone
-1,2016-07-21 08:07:31.457532+00,,,{},{},,,
-2,2016-07-21 08:07:39.546014+00,,,{21,22,23,24,25,26,27,28,29,30,30,30,30,30,30,30,30,30,30,30,1,2,3,4,5,6,7,8,9,10},{qq,"","","","",qqq,"",qqq,qqq,""},,,
-3,2016-07-21 08:11:04.961829+00,,,{21,22,23,24,25,26,27,28,29,30,30,30,30,30,30,30,30,30,30,30,1,2,3,4,5,6,7,8,9,10},{sqq,aqq,aqq,qq,aqq,w,a,q,true,false,false,false,true,false,false,app,"","","","","","","","",aaa},,,
-4,2016-07-21 08:12:52.584137+00,,,{[]},{[]},,,
-5,2016-07-21 08:25:05.465516+00,pooja,2gi10,{21,22,23,24,25,26,27,28,29,30,30,30,30,30,30,30,30,30,30,30,1,2,3,4,5,6,7,8,9,10},{sqq,aqq,aqq,qq,aqq,w,a,q,true,false,false,false,true,false,false,app,"","","","","","","","",aaa},,,
-6,2016-07-21 09:24:57.884456+00,pooja,2gi10,{21,22,23,24,25,26,27,28,29,30,30,30,30,30,30,30,30,30,30,30,1,2,3,4,5,6,7,8,9,10},{"","","","","","","","","",""},,,
-7,2016-07-21 09:24:58.806646+00,pooja,2gi10,{21,22,23,24,25,26,27,28,29,30,30,30,30,30,30,30,30,30,30,30,1,2,3,4,5,6,7,8,9,10},{"","","","","","","","","",""},,,
-8,2016-07-24 17:49:56.275739+00,pooja,111,{29,22,30,26,27,21,24,28,9,8},{a,aqq,a,q,q,qq,qq,q,fff,www},,,
-9,2016-07-24 17:56:03.288589+00,psp,2gi10,{21,28,23,24,22,30,27,26,4,7},{sqq,q,aqq,aqq,sqq,w,q,a,bb,jj},,,
-10,2016-07-25 05:44:49.482469+00,pooja,2gi10ec122,{25,24,28,29,26,30,22,21,7,8},{qq,qq,q,q,q,w,sqq,aqq,"its a programming language","its a programming language/........"},,,
-11,2016-07-25 06:16:13.766801+00,pooja,2gi10ec122,{22,25,23,29,27,30,28,24,10,4},{qq,aqq,qq,a,q,q,q,qq,aaaa,aaasd},,,
-12,2016-07-27 07:59:10.894138+00,,,{26,22,27,21,30,28,23,24,9,6},{"",""},,,
-13,2016-07-27 07:59:11.590518+00,,,{26,22,27,21,30,28,23,24,9,6},{"",""},,,
-15,2016-07-28 14:51:00.517497+00,pooja@bitjini.com,2gi10ec122,{},{},pooja,pauskar,918792213479
-16,2016-07-28 14:53:18.051147+00,pooja@bitjini.com,2gi10ec122,{100},{hello},pooja,pauskar,918792213479
-17,2016-07-28 14:57:36.294077+00,,,{92},{aa},,,
-18,2016-07-28 14:59:03.647213+00,aa,aa,{93},{aa},pp,aa,aa
-19,2016-07-28 15:06:17.101537+00,,,{93},{""},,,
-20,2016-07-28 15:07:17.938323+00,,,{93},{""},,,
-21,2016-07-28 15:08:33.191214+00,,,{5,3,2,44,47,41,73,85,69,97},{""},,,
-22,2016-07-28 15:20:48.630193+00,pooja@bitjini.com,2gi10ec122,{94},{aaaaaaaaa},pooja,p,918792213479
-23,2016-07-28 15:21:46.588718+00,pooja@bitjini.com,2gi10ec122,{94},{aaaaaaaaa},pooja,p,918792213479
-24,2016-07-28 15:22:31.644663+00,,,{15,21,23,33,40,37,64,68,87,93},{AA,QA,AAA,AA,sssssss},,,
-25,2016-07-28 15:27:50.416852+00,,,{"","","","","","","","","","","","","","","","",""},{},,,
-26,2016-07-28 15:29:15.215359+00,,,{3,"",19,"",14,53,"",49,"",34,62,"",82,"",64,93,""},{},,,
-27,2016-07-28 15:31:02.827066+00,,,{3,19,14,53,49,34,62,82,64,93},{AA,AAA,"",AA,AAA,"",AAA,AAA,"",aa},,,
+"id","created","firstname","lastname","email","phone","usn","question_list","answer_list","correct_ans_list"
+"16","2016-07-29 06:56:54.769884+00","pooja","pauskar","pooja@bitjini.com","918792213479","2gi10ec122","{28,29,13,32,44,38,84,64,81,99}","{27,511,14,""Not answered"",3,57.19,All,a,""Not answered"",""#include <stdio.h>
+ 
+int check_armstrong(int);
+int power(int, int);
+ 
+int main () {
+   int c, a, b;
+ 
+   printf(\""Input two integers\\n\"");
+   scanf(\""%d%d\"", &a, &b);
+ 
+   for (c = a; c <= b; c++) {
+      if (check_armstrong(c) == 1)
+         printf(\""%d\\n\"", c);
+   }
+ 
+   return 0;
+}
+ 
+int check_armstrong(int n) {
+   long long sum = 0, temp;
+   int remainder, digits = 0;
+ 
+   temp = n;
+ 
+   while (temp != 0) {
+      digits++;
+      temp = temp/10;
+   }
+ 
+   temp = n;
+ 
+   while (temp != 0) {
+      remainder = temp%10;
+      sum = sum + power(remainder, digits);
+      temp = temp/10;
+   }
+ 
+   if (n == sum)
+      return 1;
+   else
+      return 0;
+}
+ 
+int  power(int n, int r) {
+   int c, p = 1;
+ 
+   for (c = 1; c <= r; c++) 
+      p = p*n;
+ 
+   return p;   
+}""}","{20,511,14,B,4,96.25,All,d,10,""""}"
+"17","2016-07-29 07:01:54.048741+00","","","","","","{23,20,27,40,52,44,61,90,62,93}","{""Not answered"",""Not answered"",""Not answered"",""Not answered"",""Not answered"",""Not answered"",""Not answered"",""Not answered"",""Not answered"",""#include <stdio.h><br />
+ <br />
+int check_armstrong(int);<br />
+int power(int, int);<br />
+ <br />
+int main () {<br />
+   int c, a, b;<br />
+ <br />
+   printf(\""Input two integers\\n\"");<br />
+   scanf(\""%d%d\"", &a, &b);<br />
+ <br />
+   for (c = a; c <= b; c++) {<br />
+      if (check_armstrong(c) == 1)<br />
+         printf(\""%d\\n\"", c);<br />
+   }<br />
+ <br />
+   return 0;<br />
+}<br />
+ <br />
+int check_armstrong(int n) {<br />
+   long long sum = 0, temp;<br />
+   int remainder, digits = 0;<br />
+ <br />
+   temp = n;<br />
+ <br />
+   while (temp != 0) {<br />
+      digits++;<br />
+      temp = temp/10;<br />
+   }<br />
+ <br />
+   temp = n;<br />
+ <br />
+   while (temp != 0) {<br />
+      remainder = temp%10;<br />
+      sum = sum + power(remainder, digits);<br />
+      temp = temp/10;<br />
+   }<br />
+ <br />
+   if (n == sum)<br />
+      return 1;<br />
+   else<br />
+      return 0;<br />
+}<br />
+ <br />
+int  power(int n, int r) {<br />
+   int c, p = 1;<br />
+ <br />
+   for (c = 1; c <= r; c++) <br />
+      p = p*n;<br />
+ <br />
+   return p;   <br />
+}""}","{use,427,64,108,48.55,4,85,720,9944,""""}"

@@ -8,7 +8,7 @@
 8,WAITRESS : RESTAURANT ,multiple
 9,DEPRESSED : SAD ,multiple
 10,"CMM, EOO, GQQ,  _____ , KUU ",multiple
-11," G, J, N, Q, U, __",multiple
+11,"G, J, N, Q, U, __",multiple
 12,3 5 35 10 12 35 17,multiple
 13,"Look at this series: 8, 43, 11, 41, __, 39, 17, ... What number should fill in the blank?",multiple
 14,Candid is to indirect as honest is to,multiple
@@ -23,14 +23,14 @@
 23,What will you do to treat the constant 3.14 as a long double?,multiple
 24,Which of the following statements should be used to obtain a remainder after dividing 3.14 by 2.1 ?,multiple
 25,"One morning Gary and Steve were talking to each other face to face at a crossing. If Gary faced North, where did Steve's shadow fall",multiple
-26,"CMM, EOO, GQQ,  _____ , KUU ",multiple
-27," G, J, N, Q, U, __",multiple
-28,3 5 35 10 12 35 17,multiple
-29,"Look at this series: 8, 43, 11, 41, __, 39, 17, ... What number should fill in the blank?",multiple
-30,Candid is to indirect as honest is to,multiple
+26,"Find the greatest number that will divide 43, 91 and 183 so as to leave the same remainder in each case.",multiple
+27,"Pick the odd one:  2, 5, 10, 17, 26, 37, 50, 64",multiple
+28,"8, 7, 11, 12, 14, 17, 17, 22, (....)",multiple
+29,"15, 31, 63, 127, 255, (....)",multiple
+30,"3, 7, 6, 5, 9, 3, 12, 1, 15, (....)",multiple
 31,"Of the following two statements, both of which cannot be true, but both can also be false. Which are these two statements ? I. All machines make noise II. Some machines are noisy III. No machine makes noise IV. Some machines are not noisy ",multiple
 32,"There are five books A, B, C, D and E placed on a table. If A is placed below E, C is placed above D, B is placed below A and D is placed above E, then which of the following books touches the surface of the table ?",multiple
-33,"Introducing a man, a woman said, ""His wife is the only daughter of my father."" How is that man related to the woman? ",multiple
+33,"Introducing a man, a woman said, 'His wife is the only daughter of my father.' How is that man related to the woman? ",multiple
 34,A vendor bought toffees at 6 for a rupee. How many for a rupee must he sell to gain 20%? ,multiple
 35, A person crosses a 600 m long street in 5 minutes. What is his speed in km per hour? ,multiple
 36, What percentage of numbers from 1 to 70 have 1 or 9 in the unit's digit? ,multiple
@@ -54,21 +54,21 @@
 54,"Look at this series: 2, 1, (1/2), (1/4), ... What number should come next?",multiple
 55,"A fruit seller had some apples. He sells 40% apples and still has 420 apples. Originally, he had:",multiple
 56, What percentage of numbers from 1 to 70 have 1 or 9 in the unit's digit? ,multiple
-57," If A = x% of y and B = y% of x, then which of the following is true? ",multiple
-58,"The ratio between the speeds of two trains is 7: 8. If the second train runs 440 kms in 4 hours, then the speed of the first train is: ",multiple
-59,A is twice as good a workman as B and together they finish a piece of work in 18 days. In how many days will A alone finish the work?,multiple
-60,"Eighteen years ago, a father was three times as old as his son. Now the father is only twice as old his son. Then the sum of the present ages of the son and the father is: ",multiple
-61,"Of the following two statements, both of which cannot be true, but both can also be false. Which are these two statements ? ",multiple
-62,"Look at this series: 8, 43, 11, 41, __, 39, 17, ... What number should fill in the blank?",multiple
-63,"There are five books A, B, C, D and E placed on a table. If A is placed below E, C is placed above D, B is placed below A and D is placed above E, then which of the following books touches the surface of the table ?",multiple
+57,"If one-third of one-fourth of a number is 15, then three-tenth of that number is:",multiple
+58,Three times the first of three consecutive odd integers is 3 more than twice the third. The third integer is:,multiple
+59,"The sum of the squares of three numbers is 138, while the sum of their products taken two at a time is 131. Their sum is:",multiple
+60,"A number consists of two digits. If the digits interchange places and the new number is added to the original number, then the resulting number will be divisible by:",multiple
+61,The average weight of 8 person's increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg. What might be the weight of the new person?,multiple
+62,The largest 4 digit number exactly divisible by 88 is:,multiple
+63,"In a two-digit, if it is known that its unit's digit exceeds its ten's digit by 2 and that the product of the given number and the sum of its digits is equal to 144, then the number is:",multiple
 64,"Directions : Each of the following questions contains two statements followed by two conclusions numbered I and II. You have to consider the two statements to be true, even if they seen to be at variance at the commonly known facts. You have to decide which of the given conclusions definitely follows from the given statement. Statement : Some tables are glasses. All trees are tables. Conclusions: I.Some trees are glasses II. Some glasses are trees.",multiple
 65,Two students appeared at an examination. One of them secured 9 marks more than the other and his marks was 56% of the sum of their marks. The marks obtained by them are:,multiple
-66,A vendor bought toffees at 6 for a rupee. How many for a rupee must he sell to gain 20%? ,multiple
+66,"If 2994 / 14.5 = 172, then 29.94 / 1.45 = ?",multiple
 67,"A can do a work in 15 days and B in 20 days. If they work on it together for 4 days, then the fraction of the work that is left is : ",multiple
 68,A person crosses a 600 m long street in 5 minutes. What is his speed in km per hour? ,multiple
 69,"One person has some money in his pocket, He visits four temple on the way. As soon as he enters a temple, his money gets double and he offers Rs. 100 in each temple thus his pocket gets empty after he returns from the fourth temple. Now the question is how much money he had initially ? ",multiple
-70,What percentage of numbers from 1 to 70 have 1 or 9 in the unit's digit? ,multiple
-71,"If A = x% of y and B = y% of x, then which of the following is true? ",multiple
+70,"Seats for Mathematics, Physics and Biology in a school are in the ratio 5 : 7 : 8. There is a proposal to increase these seats by 40%, 50% and 75% respectively. What will be the ratio of increased seats?",multiple
+71,Which one of the following numbers is exactly divisible by 11?,multiple
 72,"Fact 1: Pictures can tell a story.  Fact 2: All storybooks have pictures.  Fact 3: Some storybooks have words. If the first three statements are facts, which of the following statements must also be a fact? I. Pictures can tell a story better than words can. II. The stories in storybooks are very simple. III. Some storybooks have both words and pictures. ",multiple
 73,"Blueberries cost more than strawberries. Blueberries cost lest than raspberries. Raspberries cost more than both strawberries and blueberries. If the first two statements are true, the third statement is ",multiple
 74, These questions are based on a certain code language. Understand the logic in the coding and answer the following questions. PROCESSOR is coded as D4F3C5C1E1S1S1E3C6 .QUADRANT is coded as _______ ,multiple
@@ -80,30 +80,23 @@
 80,An amount of money was lent for 3 years. What will be the difference between the simple and the compound interest earned on it at the same rate? I. The rate of interest was 8 p.c.p.a. II. The total amount of simple interest was Rs. 1200. ,multiple
 81,"A can finish a work in 24 days, B in 9 days and C in 12 days. B and C start the work but are forced to leave after 3 days. The remaining work was done by A in: ",multiple
 82,"The ratio between the speeds of two trains is 7: 8. If the second train runs 440 kms in 4 hours, then the speed of the first train is: ",multiple
-83,A is twice as good a workman as B and together they finish a piece of work in 18 days. In how many days will A alone finish the work?,multiple
+83,A pupil's marks were wrongly entered as 83 instead of 63. Due to that the average marks for the class got increased by half (1/2). The number of pupils in the class is:,multiple
 84,"Based on the following statements, which is the correct conclusion drawn. Only gentlemen can become members of the club. Many of the members of the club are officers. Some of the officers have been invited for dinner. ",multiple
 85,"Here are some words translated from an artificial language. malgauper means peach cobbler ,malgaport means peach juice ,moggagrop means apple jelly ,Which word could mean “apple juice”?",multiple
-86,"Eighteen years ago, a father was three times as old as his son. Now the father is only twice as old his son. Then the sum of the present ages of the son and the father is: ",multiple
-87,"An amount of money is to be divided between P, Q and R in the ratio of 3:7:12. If the difference between the shares of P and Q is Rs.2400, what will be the difference between Q and R's share? ",multiple
-88," 3 pumps, working 8 hours a day, can empty a tank in 2 days. How many hours a day must 4 pumps work to empty the tank in 1 day?",multiple
-89,"39 persons can repair a road in 12 days, working 5 hours a day. In how many days will 30 persons, working 6 hours a day, complete the work?",multiple
-90,"A boat can travel with a speed of 13 km/hr in still water. If the speed of the stream is 4 km/hr, find the time taken by the boat to go 68 km downstream.",multiple
+86,A number consists of 3 digits whose sum is 10. The middle digit is equal to the sum of the other two and the number will be increased by 99 if its digits are reversed. The number is:,multiple
+87,"The length of a rectangular plot is 20 metres more than its breadth. If the cost of fencing the plot @ 26.50 per metre is Rs. 5300, what is the length of the plot in metres?",multiple
+88,"A tank is 25 m long, 12 m wide and 6 m deep. The cost of plastering its walls and bottom at 75 paise per sq. m, is:",multiple
+89,"In a bag, there are coins of 25 p, 10 p and 5 p in the ratio of 1 : 2 : 3. If there is Rs. 30 in all, how many 5 p coins are there?",multiple
+90,In how many different ways can the letters of the word 'LEADING' be arranged in such a way that the vowels always come together?,multiple
 91,Write a program to add two Matrix in any programming language ,input
 92,Write an algorithm to find an 'Armstrong Number'.,input
 93,"Write an algorithm to convert input ""My Input String"" to ""yM tupnI gnirtS"". ",input
-94,Prove that p2 – 1 is divisible by 24 if p is a prime number greater than 3? ,input
+94,Prove that p2 - 1 is divisible by 24 if p is a prime number greater than 3? ,input
 95,"Write a program in any programming language to find top two maximum numbers in the 
 given array. You should not use any sorting functions. You 
 should iterate the array only once. You should not use any 
 kind of collections if your writing the program in java.",input
-96,"Program to print pyramid using numbers 
-
-        1 
-      2 3 2 
-    3 4 5 4 3 
-  4 5 6 7 6 5 4 
-5 6 7 8 9 8 7 6 5 
-",input
+96,Source code of simple bubble sort implementation using array ascending order in any programming language,input
 97,Print 1-100 numbers without using Conditional Loop ,input
 98,Split number into digits in c programming,input
 99,Program in c to print 1 to 100 without using loop,input
